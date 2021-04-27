@@ -1,6 +1,6 @@
 ## A plugin for [Dragory's ModMail](https://github.com/dragory/modmailbot) that allows users to open threads with reactions  
 **Currently on Version 1**  
-A full [changelog can be found here](https://github.com/MMPlugins/replyPrefixes/blob/main/CHANGELOG.md).  
+A full [changelog can be found here](https://github.com/MMPlugins/replyPrefix/blob/main/CHANGELOG.md).  
 Plugin written and maintained by [DarkView](https://github.com/DarkView) (Dark#1010 on Discord)  
   
 Table of Contents:
@@ -17,7 +17,7 @@ Table of Contents:
 Make sure you are running at least v3.3.2 of Modmail.
 in your config.ini file, create a new line and add  
 ```
-plugins[] = npm:MMPlugins/replyPrefixes
+plugins[] = npm:MMPlugins/replyPrefix
 ``` 
 You need to restart the bot in order for the plugin to be loaded!
 
@@ -27,10 +27,10 @@ Simply adding the plugin will allow you to use all of its features instantly.
 All commands require you to be able to execute bot commands and only work on the inbox server.
 ### Bugs
 There are currently no known bugs.  
-If you have found a bug, please report it at the [issues page for the plugin](https://github.com/MMPlugins/replyPrefixes/issues)!  
+If you have found a bug, please report it at the [issues page for the plugin](https://github.com/MMPlugins/replyPrefix/issues)!  
 You can also find the plugin author (Dark#1010) on the [official support discord](https://discord.gg/vRuhG9R) in case you have any specific questions.
 ### Feature Requests
-If you want to request or suggest a feature, open an issue on the [plugins issue page](https://github.com/MMPlugins/replyPrefixes/issues)!
+If you want to request or suggest a feature, open an issue on the [plugins issue page](https://github.com/MMPlugins/replyPrefix/issues)!
 In case the feature you want to request is outside of the scope of this plugin (anything not to do with reactions creating threads) please use the `#plugin-requests` channel on the [official support discord](https://discord.gg/vRuhG9R).
 ## Commands
 
