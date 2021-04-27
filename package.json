@@ -1,6 +1,6 @@
 {
   "name": "replyPrefix",
-  "version": "1",
+  "version": "1.0.0",
   "description": "A plugin for Discord ModMail by Dragory that allows opening threads via reactions",
   "main": "./replyPrefix.js",
   "scripts": {
