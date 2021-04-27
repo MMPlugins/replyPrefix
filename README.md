@@ -1,6 +1,5 @@
 ## A plugin for [Dragory's ModMail](https://github.com/dragory/modmailbot) that allows users to open threads with reactions  
 **Currently on Version 1**  
-A full [changelog can be found here](https://github.com/MMPlugins/replyPrefix/blob/main/CHANGELOG.md).  
 Plugin written and maintained by [DarkView](https://github.com/DarkView) (Dark#1010 on Discord)  
   
 Table of Contents:
