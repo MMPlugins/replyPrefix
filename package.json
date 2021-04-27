@@ -1,0 +1,27 @@
+{
+  "name": "replyPrefix",
+  "version": "1",
+  "description": "A plugin for Discord ModMail by Dragory that allows opening threads via reactions",
+  "main": "./replyPrefix.js",
+  "scripts": {
+    "lint": "eslint --fix ./replyPrefix.js",
+    "format": "prettier --write ./replyPrefix.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MMPlugins/replyPrefix.git"
+  },
+  "keywords": [
+    "modmail",
+    "plugin"
+  ],
+  "author": "DarkView",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/MMPlugins/replyPrefix/issues"
+  },
+  "devDependencies": {
+    "eslint": "^7.12.1",
+    "prettier": "^2.2.1"
+  }
+}
