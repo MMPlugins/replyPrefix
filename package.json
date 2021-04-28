@@ -1,7 +1,7 @@
 {
   "name": "replyPrefix",
   "version": "1.0.0",
-  "description": "A plugin for Discord ModMail by Dragory that allows opening threads via reactions",
+  "description": "A plugin for Discord ModMail by Dragory that allows users to set prefixes for their replies",
   "main": "./replyPrefix.js",
   "scripts": {
     "lint": "eslint --fix ./replyPrefix.js",
