@@ -1,4 +1,4 @@
-## A plugin for [Dragory's ModMail](https://github.com/dragory/modmailbot) that allows users to open threads with reactions  
+## A plugin for [Dragory's ModMail](https://github.com/dragory/modmailbot) that allows users to have self-assigned prefixes in replies  
 **Currently on Version 1**  
 Plugin written and maintained by [DarkView](https://github.com/DarkView) (Dark#1010 on Discord)  
   
